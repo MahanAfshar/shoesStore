@@ -1,0 +1,1 @@
+This is a simple shoe store project developed with react that has the ability to add to favorites and filter to search for shoes.
